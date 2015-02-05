@@ -56,7 +56,7 @@ nav{
   letter-spacing: -1px;
   display: inline;
   padding-bottom: 10px;
-  font-size: 15px;
+  font-size: 25px;
   color: D8DDFF;
   
 }
@@ -118,6 +118,7 @@ a {
   text-decoration: none;
   color: #D8DDFF;
   text-shadow: none;
+  padding: 2%;
 
   transition: color 0.5s ease;
   transition: text-shadow 0.5s ease;
