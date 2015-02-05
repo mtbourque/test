@@ -47,6 +47,16 @@ table {
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
+nav{
+  float: right;
+  margin: 10px 0;
+  font-weight: 700;
+  color:#222222;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  letter-spacing: -1px;
+  display: inline;
+  
+}
 
 body {
   box-sizing: border-box;
