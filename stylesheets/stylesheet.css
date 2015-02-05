@@ -55,6 +55,9 @@ nav{
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
   display: inline;
+  padding-bottom: 10px;
+  font-size: 32px;
+  color: #222222;
   
 }
 
