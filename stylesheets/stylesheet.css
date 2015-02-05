@@ -47,18 +47,22 @@ table {
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
+pageWrap{
+    width: 80%;
+}
+
 nav{
   float: right;
   margin: 10px 0;
-  font-weight: 700;
-  color: #222222;
+  font-weight: 500;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
   display: inline;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   font-size: 25px;
-  color: D8DDFF;
-  
+  width:400px;
+    padding-left: 20%;
+    margin-top: -2.5%;
 }
 
 body {
@@ -116,7 +120,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #D8DDFF;
+  color: #777378;
   text-shadow: none;
   padding: 2%;
 
