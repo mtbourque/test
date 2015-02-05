@@ -51,13 +51,13 @@ nav{
   float: right;
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
+  color: #222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
   display: inline;
   padding-bottom: 10px;
-  font-size: 32px;
-  color: #222222;
+  font-size: 20px;
+  color: D8DDFF;
   
 }
 
@@ -116,7 +116,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #D8DDFF;
   text-shadow: none;
 
   transition: color 0.5s ease;
